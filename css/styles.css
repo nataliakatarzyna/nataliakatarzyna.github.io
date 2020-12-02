@@ -61,6 +61,14 @@ div.centered {
   font-size: 80px;
 }
 
-p.miggy:hover {
-  color: #86945e;
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#86945e; 
+     text-decoration:none; 
+     cursor:pointer;  
 }
